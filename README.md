@@ -1,1 +1,1 @@
-# data-visualization
+# this repository contains a series of works on data visualization in the C++ and C# languages, covering issues such as shaders, camera, textures, lighting, building a scene with .obj objects and graphic operations in the .NET environment:
